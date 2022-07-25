@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc02_beanLoad:war">
+    <output-path>$PROJECT_DIR$/springmvc02_beanLoad/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc02_beanLoad</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc02_beanLoad-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc02_beanLoad:war exploded" />
+    </root>
+  </artifact>
+</component>
