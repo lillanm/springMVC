@@ -1,0 +1,5 @@
+com\lillanm\config\ServletContainersInitConfig.class
+com\lillanm\pojo\Address.class
+com\lillanm\pojo\User.class
+com\lillanm\config\SpringMvcConfig.class
+com\lillanm\controller\UserController.class

@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spirngmvc02_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc01_quickstart" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc02_beanLoad" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc03_request_param" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/spirngmvc02_bean_load/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc03/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc02_beanLoad/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc03_request_param/pom.xml" />
       </list>
     </option>
   </component>

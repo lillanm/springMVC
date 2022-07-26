@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc01_quickstart" />
-        <module name="springmvc03" />
         <module name="springmvc02_beanLoad" />
+        <module name="springmvc03_request_param" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +16,7 @@
       <module name="springmvc01_quickstart" target="8" />
       <module name="springmvc02_beanLoad" target="8" />
       <module name="springmvc03" target="1.5" />
+      <module name="springmvc03_request_param" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

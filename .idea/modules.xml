@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springmvc01_quickstart/springmvc01_quickstart.iml" filepath="$PROJECT_DIR$/springmvc01_quickstart/springmvc01_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc02_beanLoad/springmvc02_beanLoad.iml" filepath="$PROJECT_DIR$/springmvc02_beanLoad/springmvc02_beanLoad.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springmvc03/springmvc03.iml" filepath="$PROJECT_DIR$/springmvc03/springmvc03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc03_request_param/springmvc03_request_param.iml" filepath="$PROJECT_DIR$/springmvc03_request_param/springmvc03_request_param.iml" />
     </modules>
   </component>
 </project>
