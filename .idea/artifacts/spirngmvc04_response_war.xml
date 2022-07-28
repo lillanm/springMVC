@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spirngmvc04_response:war">
+    <output-path>$PROJECT_DIR$/spirngmvc04_response/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spirngmvc04_response</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spirngmvc04_response-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spirngmvc04_response:war exploded" />
+    </root>
+  </artifact>
+</component>

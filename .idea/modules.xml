@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc01_quickstart/springmvc01_quickstart.iml" filepath="$PROJECT_DIR$/springmvc01_quickstart/springmvc01_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc02_beanLoad/springmvc02_beanLoad.iml" filepath="$PROJECT_DIR$/springmvc02_beanLoad/springmvc02_beanLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc03_request_param/springmvc03_request_param.iml" filepath="$PROJECT_DIR$/springmvc03_request_param/springmvc03_request_param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spirngmvc04_response/springmvc04_response.iml" filepath="$PROJECT_DIR$/spirngmvc04_response/springmvc04_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc05_rest/springmvc05_rest.iml" filepath="$PROJECT_DIR$/springmvc05_rest/springmvc05_rest.iml" />
     </modules>
   </component>
 </project>
