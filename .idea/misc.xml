@@ -6,7 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc02_beanLoad" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc03_request_param" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc04_response" />
-    <file type="web" url="file://$PROJECT_DIR$/springmvc05_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc04_rest" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
